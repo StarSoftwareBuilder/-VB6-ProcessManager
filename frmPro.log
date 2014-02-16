@@ -1,0 +1,21 @@
+Line 56: Class MSComctlLib.ImageList of control ima was not a loaded control class.
+Line 65: Class MSComctlLib.ListView of control LV was not a loaded control class.
+Line 59: The property name _ExtentX in ima is invalid.
+Line 60: The property name _ExtentY in ima is invalid.
+Line 62: The property name MaskColor in ima is invalid.
+Line 63: The property name _Version in ima is invalid.
+Line 72: The property name _ExtentX in LV is invalid.
+Line 73: The property name _ExtentY in LV is invalid.
+Line 74: The property name View in LV is invalid.
+Line 75: The property name LabelEdit in LV is invalid.
+Line 76: The property name LabelWrap in LV is invalid.
+Line 77: The property name HideSelection in LV is invalid.
+Line 78: The property name AllowReorder in LV is invalid.
+Line 79: The property name FullRowSelect in LV is invalid.
+Line 80: The property name GridLines in LV is invalid.
+Line 81: The property name _Version in LV is invalid.
+Line 82: The property name SmallIcons in LV is invalid.
+Line 96: The property name NumItems in LV is invalid.
+Line 100: The property name ColumnHeader(1) in LV is invalid.
+Line 105: The property name ColumnHeader(2) in LV is invalid.
+Line 110: The property name ColumnHeader(3) in LV is invalid.
